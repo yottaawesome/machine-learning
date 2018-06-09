@@ -63,3 +63,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+/projects/dog-app/data
+/projects/dog-app/dogImages.zip
+/projects/dog-app/lfw.tgz
